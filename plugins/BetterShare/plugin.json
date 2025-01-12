@@ -1,0 +1,6 @@
+{
+    "name": "Better Share",
+    "description": "Removes useless share options and adds native link copying for other streaming services.",
+    "author": "Farmz",
+    "main": "./src/index.js"
+}
