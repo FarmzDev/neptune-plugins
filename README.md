@@ -5,7 +5,7 @@ These are some plugins I've made for [Neptune](https://github.com/uwu/neptune), 
 
 Install URL:
 ```
-https://farmzdev.github.io/neptune-plugins/BetterShare
+https://farmzdev.github.io/neptune-plugins/plugins/BetterShare
 ```
 
 By default, TIDAL offers to share to X or Facebook. Since this selection is essentially useless, this plugin replaces them with buttons to copy links from other streaming services, which can be especially useful if you're sending a song or album to someone who doesn't use TIDAL. 
